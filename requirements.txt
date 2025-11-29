@@ -1,0 +1,10 @@
+pandas>=2.0.0               # For data loading and manipulation
+numpy>=1.24.0               # Numerical operations
+scikit-learn>=1.3.0         # Linear Regression, Random Forest, metrics, cross validation,etc. 
+xgboost>=2.0.0              # Gradient Boosting
+torch>=2.0.0                # PyTorch for neural networks
+matplotlib>=3.7.0           # Plotting for EDA
+seaborn>=0.12.0             # Enhanced visualizations (potentially)
+scipy>=1.10.0               # Stats for feature engineering
+joblib>=1.2.0               # Model saving/loading
+pyyaml>=6.0.0               # config.yaml?
