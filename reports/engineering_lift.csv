@@ -1,0 +1,3 @@
+Model,Revenue R2,Ratings R2
+RF Baseline,0.6104,0.5458
+RF Engineered,0.6176602399423576,0.5671244489318065

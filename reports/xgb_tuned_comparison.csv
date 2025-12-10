@@ -1,0 +1,4 @@
+Model,Revenue R²,Revenue RMSE,Ratings R²,Ratings RMSE
+RF Engineered,0.6177,1.2241,0.5671,0.3312
+XGBoost Tuned Revenue,0.6422091309939427,1.184162342807946,,
+XGBoost Tuned Ratings,,,0.6145152000604247,0.3125211046577872

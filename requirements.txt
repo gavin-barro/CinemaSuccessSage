@@ -8,3 +8,4 @@ seaborn>=0.12.0             # Enhanced visualizations (potentially)
 scipy>=1.10.0               # Stats for feature engineering
 joblib>=1.2.0               # Model saving/loading
 pyyaml>=6.0.0               # config.yaml?
+nltk>=3.9.1                 # NLP

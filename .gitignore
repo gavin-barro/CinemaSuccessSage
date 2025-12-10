@@ -1,3 +1,5 @@
 project-layout.txt
 .DS_Store
 data/raw
+models
+data
