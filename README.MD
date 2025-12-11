@@ -100,7 +100,7 @@ To reproduce the results reported in the paper, execute the notebooks in the fol
 | Model          | Revenue R²| Revenue RMSE |   Ratings R²| Ratings RMSE|
 |----------------|---------- |--------------|-------------|-------------|
 | **XGBoost**        | **0.66 ± 0.01**|	 **1.18 ± 0.01**	|  **0.61 ± 0.01** |  **0.31 ± 0.01** |
-| Random Forest  |0.63 ± 0.02|	1.23 ± 0.02	| 0.56 ± 0.01 |	0.31 ± 0.01 |
+| Random Forest  |0.63 ± 0.02|	1.23 ± 0.02	| 0.56 ± 0.01 |	0.34 ± 0.01 |
 | Neural Network |0.58 ± 0.02|	1.28 ± 0.02	| 0.57 ± 0.02 |	0.31 ± 0.01 |
 | Linear (Ridge) |0.44 ± 0.01|	1.35 ± 0.03	| 0.40 ± 0.01 |	0.42 ± 0.01 |
 
